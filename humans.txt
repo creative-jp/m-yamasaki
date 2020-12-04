@@ -1,0 +1,23 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+Project Manager/Design: Julian Wheatley.
+Site: http://creativelabs.jp/
+E-Mail: info [at] creativelabs.jp
+
+Main Coding: Alistair Ramsey
+Site: http://digitalpath.co.uk/
+E-Mail: info [at] digitalpath.co.uk
+twitter: @alistair_ramsay
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr, Bootstrap
+    Adaptive Images, jCycle, Mailform (www.synck.com/‎)
+    

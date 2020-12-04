@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://m-yamazaki.co.jp/</loc>
+
+      <lastmod>2013-05-04</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://m-yamazaki.co.jp/company/index.html</loc>
+
+      <lastmod>2013-05-04</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://m-yamazaki.co.jp/business/index.html</loc>
+
+      <lastmod>2013-05-04</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://m-yamazaki.co.jp/equip/index.html</loc>
+
+      <lastmod>2013-05-04</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://m-yamazaki.co.jp/qa/index.html</loc>
+
+      <lastmod>2013-05-04</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+   
+      <url>
+
+      <loc>http://m-yamazaki.co.jp/question/index.html</loc>
+
+      <lastmod>2013-05-04</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+      <url>
+
+      <loc>http://m-yamazaki.co.jp/404.html</loc>
+
+      <lastmod>2013-05-04</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.3</priority>
+
+   </url>
+
+      <url>
+
+      <loc>http://m-yamazaki.co.jp/thanks/index.html</loc>
+
+      <lastmod>2013-05-04</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.3</priority>
+
+   </url>
+
+</urlset> 
