@@ -7,7 +7,7 @@ Project Manager/Design: Julian Wheatley.
 Site: http://creativelabs.jp/
 E-Mail: info [at] creativelabs.jp
 
-Main Coding: Alistair Ramsey
+Main Coding: Alistair Ramsey.
 Site: http://digitalpath.co.uk/
 E-Mail: info [at] digitalpath.co.uk
 twitter: @alistair_ramsay
